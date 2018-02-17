@@ -14,13 +14,13 @@
     "require": {
         "php": ">=5.3.2",
         "symfony/framework-bundle": "~2.7|~3.2|~4.0",
-        "gedmo/doctrine-extensions": "~2.3|~2.4"
     },
     "require-dev": {
         "symfony/phpunit-bridge": "^4.0",
         "symfony/security-bundle": "^2.7 || ^3.2 || ^4.0"
     },
     "suggest": {
+        "gedmo/doctrine-extensions": "Install required version"
         "doctrine/doctrine-bundle": "to use the ORM extensions",
         "doctrine/mongodb-odm-bundle": "to use the MongoDB ODM extensions"
     },
