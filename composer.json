@@ -20,7 +20,7 @@
         "symfony/security-bundle": "^2.7 || ^3.2 || ^4.0"
     },
     "suggest": {
-        "gedmo/doctrine-extensions": "Install required version"
+        "gedmo/doctrine-extensions": "Install required version",
         "doctrine/doctrine-bundle": "to use the ORM extensions",
         "doctrine/mongodb-odm-bundle": "to use the MongoDB ODM extensions"
     },
